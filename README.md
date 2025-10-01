@@ -60,7 +60,7 @@ Native modules come into the built of Nodejs, that means that we can use them wi
 - Path: Accesing to file paths
 - Os: Interact with operating system
 
-Thir party are those libraries that we can add into our project using npm install, for example:
+Third party are those libraries that we can add into our project using npm install, for example:
 npm i is-odd
 
 In my opinion we should use one module system between commonjs and es-module, to generate consistency throught the project.
